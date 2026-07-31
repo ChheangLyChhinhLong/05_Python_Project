@@ -39,7 +39,7 @@ To run or test any of the Python scripts in this repository, ensure you have Pyt
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/your-username/05_Python_Project.git](https://github.com/ChheangLyChhinhLong/05_Python_Project.git)
+git clone https://github.com/ChheangLyChhinhLong/05_Python_Project.git
 
 ```
 
