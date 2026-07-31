@@ -1,0 +1,30 @@
+
+Chapter7: Class and Object
+-OOP: Object Oreinted Programming
+======
+1-Class =គឺជាពុម្ពគម្រូមួយដែលយើងបង្កើតវាឡើងដើម្បីបង្កើត
+	object. នៅក្នុង class មាន​ Properties និង​ method/function
+2-Object = is an instant of the (គឺជាឧបករណ៍៍របស់ class).
+3-OOP Concept
+	3.1-Inheritant:​គឺជាការបង្កើត class ថ្មីមួយដែលទាញយក​ Properties
+	ឬ method របស់​ class ដទៃទៀតយកមកប្រើប្រាស់ក្នុង class ខ្លួនឯង។
+	3.2-Encapsulation: គឺជាបច្ចេកទេសដែលធ្វើអោយ​ Properties របស់ class
+	ជា​ private ក្នុងគោលបំណងលាក់ពត៌មានពី User​ ដោយមិនអោយ User ហៅទៅកាន់
+	properties នោះដោយផ្ទាល់ទេ គឺត្រូវមាន function ដើម្បីហៅទៅកាន់ Properties នោះ
+	3.3-Polymophism: គឺជាការបង្កើត object ដែលអនុញ្ញាតអោយដាក់ឈ្មោះដូចគ្នាបាន
+	នៅក្នុង​ពីរដែលយើង inherit ចូលគ្នា។​ មានន័យថានៅពេលដែល class ពីរ inherit 
+	ចូលគ្នា ទោះបីជា class ទាំងពីមាន object ដែលមានឈ្មោះដូចគ្នាក៍វាអនុញ្ញាតអោយប្រើប្រាស់
+	oject នោះបានទាំងពី ដោយមិនមានបញ្ហា។
+	3.4-Abstract: គឺជាការបង្កើត class មួយដែលលាក់​ method មិនអោយ class ដទៃអាច
+	ហៅប្រើប្រាស់បាន​។​ មានតែ subclass ដែលបាន Inherit abstract នោះទេទើបអាចហៅ
+	method ដែលមាននៅក្នុង abstract class​ នោះបាន។​ 
+4-function __init___ : គឺជា function មួយដែលវាដំណើរភ្លាមនៅពេលដែល object នៃ​ class នោះ
+	ត្រូវបានបង្កើតឡើង ប្រើប្រាស់វាដើម្បីកំណត់តម្លៃដំបូងទៅអោយ​ object
+5-Constructor: គឺជា method/function ពិសេសមួយដែលវាដំណើរភ្លាមនៅពេលដែល object នៃ​ class នោះ
+	ត្រូវបានបង្កើតឡើង, ឈ្មោះរបស់វាគឺដូចទៅនឹងឈ្មោះ​ ប្រើប្រាស់វាដើម្បីកំណត់តម្លៃដំបូងទៅអោយ​ object
+5-parameter self: ជា parameter មួយដែលធ្វើអោយ properties នៅក្នុង class អាចហៅបាន
+	ចូលទៅគ្រប់ function បាន
+	Example: self.id 
+
+
+
