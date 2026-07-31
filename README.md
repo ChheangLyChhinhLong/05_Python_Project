@@ -9,7 +9,6 @@ Welcome to the **05_Python_Project** repository! This repository is organized to
 The repository is structured logically to separate assignments, evaluations, and learning resources:
 
 ```markdown
-```text
 05_Python_Project/
 │
 ├── Assignment/       # Weekly or periodic homework assignments
