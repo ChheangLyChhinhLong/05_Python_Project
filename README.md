@@ -1,49 +1,60 @@
-# 05 Python Project
+```markdown
+# 05_Python_Project
 
-A comprehensive collection of Python scripts and applications focusing on automation, data processing, and efficient problem-solving.
-
----
-
-## 🚀 Features
-
-* **Automation Scripts:** Streamline repetitive daily tasks and workflows.
-* **Data Processing:** Clean, manipulate, and analyze datasets efficiently.
-* **Modular Code:** Built following clean code principles and best practices.
+Welcome to the **05_Python_Project** repository! This repository is organized to store and track coursework, programming tasks, and projects for Python classes at **Build Bright University (BBU)**.
 
 ---
 
-## 🛠️ Prerequisites & Installation
+## 📂 Repository Structure
 
-Make sure you have **Python 3.8+** installed on your system.
+The repository is structured logically to separate assignments, evaluations, and learning resources:
+
+```text
+05_Python_Project/
+│
+├── Assignment/       # Weekly or periodic homework assignments
+├── Final/            # Final course projects and exams
+├── Lab/              # Practical in-class laboratory exercises
+├── Lesson/           # Lecture notes, code examples, and tutorials
+├── Midterm/          # Midterm exams and projects
+└── Resources/        # Reference materials, datasets, and useful documentation
+
+```
+
+---
+
+## 📁 Directory Breakdown
+
+* **`Assignment/`**: Contains regular programming tasks and problem sets assigned throughout the semester.
+* **`Final/`**: Houses comprehensive final projects demonstrating cumulative knowledge of Python programming.
+* **`Lab/`**: Hands-on code snippets and exercises completed during computer lab sessions.
+* **`Lesson/`**: Core learning materials, syntax examples, and practice scripts provided during lectures.
+* **`Midterm/`**: Mid-semester practical evaluations and projects.
+* **`Resources/`**: External links, cheat sheets, sample data files, and documentation.
+
+---
+
+## 🚀 Getting Started
+
+To run or test any of the Python scripts in this repository, ensure you have Python installed on your system.
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/ChheangLyChhinhLong/05_Python_Project.git
+git clone [https://github.com/your-username/05_Python_Project.git](https://github.com/ChheangLyChhinhLong/05_Python_Project.git)
 
 ```
 
 
-2. **Navigate to the project directory:**
+2. **Navigate to the target folder:**
 ```bash
-cd 05_Python_Project
+cd 05_Python_Project/Lesson
 
 ```
 
 
-3. **(Optional) Create and activate a virtual environment:**
+3. **Run a script:**
 ```bash
-python -m venv venv
-# On Windows:
-venv\Scripts\activate
-# On macOS/Linux:
-source venv/bin/activate
-
-```
-
-
-4. **Install dependencies:**
-```bash
-pip install -r requirements.txt
+python script_name.py
 
 ```
 
@@ -51,29 +62,17 @@ pip install -r requirements.txt
 
 ---
 
-## 💡 Usage
+## 🏛️ Institution
 
-Provide brief examples or instructions on how to run your scripts:
-
-```bash
-python main.py
-
-```
-
----
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://www.google.com/search?q=../../issues).
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+* **University:** Build Bright University (BBU)
+* **Course:** Python Programming
 
 ---
 
 ## 📝 License
 
-Distributed under the **MIT License**. See `LICENSE` for more information.
+This project is open-source and intended for academic reference and educational purposes.
+
+```
+
+```
