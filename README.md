@@ -18,7 +18,7 @@ Make sure you have **Python 3.8+** installed on your system.
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/YOUR_USERNAME/05_Python_Project.git
+git clone https://github.com/ChheangLyChhinhLong/05_Python_Project.git
 
 ```
 
