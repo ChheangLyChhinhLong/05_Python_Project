@@ -1,4 +1,3 @@
-```markdown
 # 05_Python_Project
 
 Welcome to the **05_Python_Project** repository! This repository is organized to store and track coursework, programming tasks, and projects for Python classes at **Build Bright University (BBU)**.
@@ -9,6 +8,7 @@ Welcome to the **05_Python_Project** repository! This repository is organized to
 
 The repository is structured logically to separate assignments, evaluations, and learning resources:
 
+```markdown
 ```text
 05_Python_Project/
 │
